@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FabActionAnimations-green.svg?style=true)](https://android-arsenal.com/details/1/3632)
 [![Build Status](https://travis-ci.org/kyze8439690/RevealLayout.svg?branch=master)](https://travis-ci.org/qs-lll/FabActionAnimations)  
 # FabActionAnimations
@@ -22,4 +21,3 @@
  
 =======
 # FabActionAnimations
->>>>>>> 37b7a2257cdf50019041e1339b2d7c4105fc3d04
